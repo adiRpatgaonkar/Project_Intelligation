@@ -1,9 +1,8 @@
 /*
-* Arduino Wireless Communication Tutorial
-*       Example 1 - Receiver Code
-*                
-* by Dejan Nedelkovski, www.HowToMechatronics.com
-* 
+* Receiver module code.
+* By : Aditya R. Patgaonkar
+* Credits : Dejan Nedelkovski, www.HowToMechatronics.com
+* Modified according to the goals/needs of our project.
 * Library: TMRh20/RF24, https://github.com/tmrh20/RF24/
 */
 #include <SPI.h>
